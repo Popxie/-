@@ -1,0 +1,1 @@
+const files = require.context('../components/common', true, /\.vue$/)
